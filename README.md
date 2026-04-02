@@ -1,10 +1,122 @@
-### Hi there 👋
+```
+██╗     ███████╗██╗████████╗ █████╗ ██╗      █████╗ 
+██║     ██╔════╝██║╚══██╔══╝██╔══██╗██║     ██╔══██╗
+██║     █████╗  ██║   ██║   ███████║██║     ███████║
+██║     ██╔══╝  ██║   ██║   ██╔══██║██║     ██╔══██║
+███████╗███████╗██║   ██║   ██║  ██║███████╗██║  ██║
+╚══════╝╚══════╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+```
 
-#### My name is Yuting He
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=650&lines=Initializing+Leitala.exe...;Loading+caffeine+module...+%5BOK%5D;Compiling+ideas...+%5BOK%5D;Deploying+to+production...+%5BOK%5D;System+ready.+%F0%9F%9F%A2" />
+</p>
 
-### Skills and Tools
-<img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original-wordmark.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" /><img height=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-### Connect with Me
-<a href="https://www.linkedin.com/in/rithaeh/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" alt="Linkedin link" width="100"/></a>
+---
 
+```bash
+$ neofetch
+```
+```
+        ╔══════════════════════════════════════╗
+        ║  OS        > Human 27.0 (rolling)    ║
+        ║  Shell     > zsh                     ║
+        ║  Editor    > vscode                  ║
+        ║  Theme     > dark mode always        ║
+        ║  Coffee    > [████████░░] 80%         ║
+        ║  Focus     > [██████████] 100%        ║
+        ║  Bugs      > being handled            ║
+        ╚══════════════════════════════════════╝
+```
 
+---
+
+```bash
+$ top
+```
+```
+  PROCESS                        CPU     MEM     STATUS
+  ─────────────────────────────────────────────────────
+  building_new_features          94%     -       [running]
+  reading_documentation          -       40%     [running]
+  code_review                    30%     -       [running]
+  shipping_to_prod               60%     60%     [running] ✓
+```
+
+---
+
+```bash
+$ ps aux | grep leitala
+```
+```
+  PID   PROCESS                        STATUS
+  001   designing_clean_architecture   [running]
+  002   optimizing_performance         [running]
+  003   writing_tests                  [running]
+  004   actually_building_cool_stuff   [running] ✓
+```
+
+---
+
+```bash
+$ cat current.txt
+```
+```
+  currently working on  >  [ update me ]
+  status                >  [ update me ]
+  mood                  >  [ update me ]
+```
+
+---
+
+```bash
+$ cat stack.conf
+```
+```
+  [languages]     python · swift · typescript · javascript · c++ · c# · java
+
+  [frameworks]    swiftui · react · node · django · .net · express
+
+  [databases]     mongodb · postgresql · mysql · firebase
+
+  [infra]         docker · azure · linux · git
+```
+
+---
+
+```bash
+$ git log --oneline --all
+```
+```
+  f3a9c2e  feat: ship new feature ahead of schedule
+  b82d441  fix: resolved edge case in production
+  9c1e873  refactor: improved system performance
+  4d70f1a  feat: implemented new architecture
+  1a2b3c4  init: here we go
+```
+
+---
+
+```bash
+$ cat visitor_count.txt
+```
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Leitala&style=flat-square&color=00FF41&label=VISITORS" />
+</p>
+
+---
+
+```bash
+$ cat snake.log
+```
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Leitala/Leitala/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+```bash
+$ ./connect.sh --platform linkedin
+> https://www.linkedin.com/in/rithaeh/
+```
