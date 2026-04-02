@@ -97,6 +97,16 @@ $ git log --oneline --all
 ---
 
 ```bash
+$ cat quote.txt
+```
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+```bash
 $ cat visitor_count.txt
 ```
 
